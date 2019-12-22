@@ -28,7 +28,8 @@ class Scraper
   end 
   
   def make_courses
-    
+    new_course = Course.New 
+    new_course.title = 
   end 
   
 end
