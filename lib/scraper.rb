@@ -23,7 +23,7 @@ class Scraper
   
   def get_courses
     get_page
-    doc.css()
+    doc.css(".link-3R0TyF")
   end 
   
 end
