@@ -27,6 +27,10 @@ class Scraper
     doc.css(".link-3R0TyF")
   end 
   
+  def make_courses
+    
+  end 
+  
 end
 
 
