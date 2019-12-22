@@ -31,7 +31,7 @@ class Scraper
     new_course = Course.New 
     new_course.title = "Software Engineering"
     new_course.schedule = "Fall"
-    new_course.description = 
+    new_course.description = "Some software engineering"
   end 
   
 end
